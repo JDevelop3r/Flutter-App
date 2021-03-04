@@ -18,7 +18,7 @@
     classpath 'com.google.gms:google-services:4.3.3'
   }
   
--agregar en **android/app/build.gradle**
+- agregar en **android/app/build.gradle**
   
   apply plugin: 'com.google.gms.google-services'
   
