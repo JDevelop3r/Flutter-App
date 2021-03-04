@@ -31,22 +31,22 @@
   android {
   
     defaultConfig {
-    
-        // ... otras configuraciones
-        
-        minSdkVersion 16
-        
-        targetSdkVersion 28
-        
-        multiDexEnabled true
-        
-      }
+
+    // ... otras configuraciones
+
+     minSdkVersion 16
+     
+     targetSdkVersion 28
+     
+     multiDexEnabled true
 
   }
   
 
   dependencies {
   
+    // ... otras dependencias
+    
     implementation 'com.android.support:multidex:1.0.3'
     
   }
