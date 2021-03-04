@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "115018062106",
+    "project_id": "cafe-flutter-apps2go",
+    "storage_bucket": "cafe-flutter-apps2go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115018062106:android:9f95f401ed470fad18b4a3",
+        "android_client_info": {
+          "package_name": "com.example.cafe_fluter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115018062106-pp428rq8dftt2hj088rc9an8ekbeeb19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cafe_fluter",
+            "certificate_hash": "c1e0f7e131a23fa6fc292f97d0783a1e9ca9a77b"
+          }
+        },
+        {
+          "client_id": "115018062106-n6h0dg9vepioam3toai5eu3s46j5a1cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAajdYO_okBlavvbX57ABOLydKIHZIV3JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115018062106-n6h0dg9vepioam3toai5eu3s46j5a1cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
